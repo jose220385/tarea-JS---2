@@ -1,0 +1,28 @@
+form {
+width: 400px;
+height: 300px;
+}
+
+div {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+input {
+    width: 23px;
+    display: inline-flex;
+    margin-left: 5px;
+}
+
+label {
+    display: inline-flex;
+}
+
+#maximo{
+    margin-left: 10px;
+}
+
+#textarea{
+    width: 100%;
+}
